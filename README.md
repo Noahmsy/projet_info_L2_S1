@@ -1,6 +1,6 @@
 # projet_info_L2_S1
 Générateur de planches de BD satiriques de partis politiques
-# 🏛️ Générateur de BD Satirique (Local & Streamlit)
+# 🏛️ Générateur de BD Satirique
 
 Ce projet permet de scraper le site d'un parti politique, d'en extraire les phrases clés ("langue de bois" ou propositions fortes), et de générer une planche de BD satirique via l'IA.
 
