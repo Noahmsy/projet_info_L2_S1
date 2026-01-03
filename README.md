@@ -9,7 +9,10 @@ Ce projet permet de scraper le site d'un parti politique, d'en extraire les phra
 ### 1. Prérequis
 - Python 3.10 ou supérieur installé.
 
-### 2. Cloner et préparer l'environnement
+### 2. API 
+- Ajouter le clés API dans le fichier .env
+
+### 3. Cloner et préparer l'environnement
 ```bash
 # Créer un environnement virtuel
 python -m venv venv
