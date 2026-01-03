@@ -22,3 +22,7 @@ source venv/bin/activate
 
 # Installer les dépendances
 pip install -r requirements.txt
+
+# Lancer Streamlit
+streamlit run app.py
+
