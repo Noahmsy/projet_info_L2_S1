@@ -10,7 +10,7 @@ Ce projet permet de scraper le site d'un parti politique, d'en extraire les phra
 - Python 3.10 ou supérieur installé.
 
 ### 2. API 
-- Ajouter le clés API dans le fichier .env
+- Ajouter la clés API dans le fichier .env
 
 ### 3. Cloner et préparer l'environnement
 ```bash
